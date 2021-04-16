@@ -1,1 +1,1 @@
-# asars-7.gitgub.io
+# asars-7.github.com
